@@ -1,6 +1,6 @@
 # 👋 Welcome to Kaweesha Prabhath's GitHub!
 
-Hi! I'm Kaweesha Prabhath, a Senior Developer at Advirto Digital with a passion for crafting responsive, user-friendly web applications. My expertise spans full-stack development, UI/UX design, and creating intuitive digital solutions. Check out my [portfolio website](https://kaweeshaprabhath.me) for more about my projects and experience!
+Hi! I'm Kaweesha Prabhath, a Developer with a passion for crafting responsive, user-friendly web applications. My expertise spans full-stack development, UI/UX design, and creating intuitive digital solutions. Check out my [portfolio website](https://kaweeshaprabhath.me) for more about my projects and experience!
 
 ---
 
