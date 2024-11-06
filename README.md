@@ -1,4 +1,4 @@
-# 👋 Welcome to Kaweesha Prabhath's GitHub!
+# 👋 Welcome...
 
 Hi! I'm Kaweesha Prabhath, a Developer with a passion for crafting responsive, user-friendly web applications. My expertise spans full-stack development, UI/UX design, and creating intuitive digital solutions. Check out my [portfolio website](https://kaweeshaprabhath.me) for more about my projects and experience!
 
@@ -7,13 +7,13 @@ Hi! I'm Kaweesha Prabhath, a Developer with a passion for crafting responsive, u
 ## 🛠️ Skills and Tools
 
 **Languages:**  
-HTML, CSS, JavaScript, TypeScript, Python, PHP, MySQL
+- HTML, CSS, JavaScript, TypeScript, Python, PHP, SQL
 
 **Frameworks & Libraries:**  
-React, Laravel, TailwindCSS, Bootstrap, WordPress, WooaCommerce
+- React, Laravel, TailwindCSS, Bootstrap
 
-**Design & Tools:**  
-Figma, Photoshop, Adobe Premiere
+**Design Tools:**  
+- Figma, Photoshop, Adobe Premiere
 
 ---
 
