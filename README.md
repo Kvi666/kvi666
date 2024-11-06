@@ -19,8 +19,8 @@ Figma, Photoshop, Adobe Premiere
 
 ## 📫 Connect with Me!
 
-- 🌐 [Website](https://kaweeshaprabhath.me)
-- 📧 Email: [contact@kaweeshaprabhath.me](mailto:dev.kaweeshaprabhath@gmail.com)
+- 🌐 [https://kaweeshaprabhath.me](https://kaweeshaprabhath.me)
+- 📧 Email: [dev.kaweeshaprabhath@gmail.com](mailto:dev.kaweeshaprabhath@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaweesha-prabhath-989305314/)
 
 ---
